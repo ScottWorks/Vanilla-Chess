@@ -1,0 +1,12 @@
+.row {
+  display: flex;
+}
+
+.square {
+  border: 1px solid grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75px;
+  width: 75px;
+}
